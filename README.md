@@ -1,7 +1,7 @@
 # Sowmya Nagamalla
 ### Cybersecurity Analyst | IAM Project Lead | Microsoft Entra ID
 
-- **Live Portfolio:** [https://sowmyasowmya160.github.io/Sowmya---Portfolio/](https://sowmyasowmya160.github.io/Sowmya---Portfolio/)
+- **Live Portfolio:** [https://sowmyasowmya160.github.io/Sowmya-s-PortFolio/](https://sowmyasowmya160.github.io/Sowmya-s-PortFolio/)
 - **LinkedIn:** [sowmya-nagamalla](https://www.linkedin.com/in/sowmya-nagamalla-186843265/)
 - **Email:** nagamallasowmya718@gmail.com
 
